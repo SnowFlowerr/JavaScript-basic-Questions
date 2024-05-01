@@ -10,12 +10,12 @@ To test your solutions, you can run the JavaScript files using Node.js. Make sur
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/javascript-basic-questions.git
+git clone https://github.com/SnowFlowerr/JavaScript-basic-Questions.git
 ```
 
 2. Navigate to the repository directory:
 ```
-cd javascript-basic-questions
+cd Javascript-basic-Questions
 ```
 
 3. Open the JavaScript file of the question you want to solve (e.g., `question1.js`) and write your solution.
