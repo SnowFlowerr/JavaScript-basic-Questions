@@ -21,7 +21,7 @@ cd javascript-basic-questions
 3. Open the JavaScript file of the question you want to solve (e.g., `question1.js`) and write your solution.
 
 4. To test your solution, run the JavaScript file using Node.js:
-
+node `question1.js`
 
 Replace `question1.js` with the name of the file you want to run.
 
